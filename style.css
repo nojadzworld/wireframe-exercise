@@ -1,0 +1,71 @@
+
+header img {
+  margin-left: 80px;
+  
+
+}
+
+nav {
+
+  display: flex;
+  justify-content: space-evenly;
+  flex-grow: 1;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+
+}
+
+
+main ul {
+
+  display: flex;
+  justify-content:space-evenly;
+ 
+  
+}
+
+main img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+overflow: hidden;
+
+ 
+ 
+
+}
+
+p {
+  height: 300px;
+  width: 300px;
+  overflow: auto;
+  display: inline-flexbox;
+  
+  
+}
+
+section {
+  display: flex;
+
+}
+
+button {
+  transition: 350ms;
+}
+
+button:hover{
+
+  background-color: goldenrod;
+}
+
+footer {
+  background-color: darkgray;
+  border: 1px;
+  padding: 50px;
+  margin-top: 30px;
+  
+}
